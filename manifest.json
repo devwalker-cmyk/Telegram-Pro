@@ -5,14 +5,9 @@
     "author": "KingSoftWare",
     "changelog": "",
     "url": "",
-    "mandatory": {
-        "value": false,
-        "minversion": "0.0.0",
-        "maxversion": ""
-
-    },
-    "checksum": {
-        "value": "",
-        "algorithm": ""
+    "mandatory": true,
+    "hash": {
+        "algorithm": "md5",
+        "value": "f1b1"
     }
 }
