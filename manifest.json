@@ -1,0 +1,18 @@
+{
+    "name": "Telegram - KingSoftWare",
+    "version": "1.0.0",
+    "description": "Telegram Bot API for KingSoftWare",
+    "author": "KingSoftWare",
+    "changelog": "",
+    "url": "",
+    "mandatory": {
+        "value": false,
+        "minversion": "0.0.0",
+        "maxversion": ""
+
+    },
+    "checksum": {
+        "value": "",
+        "algorithm": ""
+    }
+}
