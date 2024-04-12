@@ -1,13 +1,17 @@
 {
-    "name": "Telegram - KingSoftWare",
+    "name": "Telegram-Pro",
     "version": "1.0.0",
-    "description": "Telegram Bot API for KingSoftWare",
-    "author": "KingSoftWare",
-    "changelog": "",
+    "description": "Telegram Pro",
+    "author": "Devwalker",
+    "changelog": "First release",
     "url": "",
-    "mandatory": true,
-    "hash": {
-        "algorithm": "md5",
-        "value": "f1b1"
+    "checksum": {
+        "algorithm": "sha256",
+        "value": "d41d8cd98f00b204e9800998ecf8427e"
+    },
+    "mandatory": {
+        "required": true,
+        "minimum_version": "1.0.0",
+        "maximum_version": "1.0.0"
     }
 }
